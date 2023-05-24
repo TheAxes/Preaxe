@@ -1,0 +1,10 @@
+{ 
+    "client_id": client_id_here,
+    "name": "Using PreAxe",
+    "details": "Get It On PreAxe.tk",
+    "state": "version : 2",
+    "large_image_url": "https://cdn.discordapp.com/attachments/1032626031871406113/1078010828428689468/imageedit_2_6063933873.png",
+    "small_image_url": "https://cdn.discordapp.com/attachments/1032626031871406113/1078010854055886929/bfe3ebcb5e5973aaa417aecdef622f95.png",
+    "activity_type": "2" ,
+    "status": "dnd"
+}
