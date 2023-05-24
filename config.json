@@ -1,0 +1,11 @@
+{
+   "prefix" : ">",
+   "channelsname" : ["Axes Are Cool", "Axes Runs Cord", "Axes On Top", "Axes On Fire"],
+   "rolenames" :  ["Axes Are Cool", "Axes Runs Cord", "Axes On Top", "Axes On Fire"],
+   "webhookmessage" :  ["@everyone Axes Are Cool", "@everyone Axes Runs Cord", "@everyone Axes On Top", "@everyone Axes On Fire"],
+   "reason" : "Axes Runs Cord",
+   "afkmessage" : "Hey Buddy I Am Afk Message Me Later!",
+   "nitrosniper" : "True",
+   "giveawaysniper" : "True",
+   "command_mode" : "text"
+  }
